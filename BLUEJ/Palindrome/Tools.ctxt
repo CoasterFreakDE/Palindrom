@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Tools
+comment1.params=text
+comment1.target=java.lang.String\ deleteSpecialCharacters(java.lang.String)
+comment1.text=\r\n\ Returns\ the\ text\ without\ any\ special\ characters.\r\n\ @param\ text\ Input\ text\r\n\ @return\ Text\ without\ special\ characters\r\n
+comment2.params=text
+comment2.target=java.lang.String\ toLower(java.lang.String)
+comment2.text=\r\n\ Returns\ the\ text\ in\ lower\ case\r\n\ @param\ text\ Input\ text\r\n\ @return\ Text\ in\ lower\ case\r\n
+comment3.params=text
+comment3.target=java.lang.String\ strReverse(java.lang.String)
+comment3.text=\r\n\ Reverses\ the\ input\r\n\ @param\ text\ Input\ text\r\n\ @return\ Reversed\ text\r\n
+comment4.params=text\ length
+comment4.target=java.lang.String\ left(java.lang.String,\ int)
+comment4.text=\r\n\ Returns\ a\ substring\ of\ the\ text\ from\ left\ with\ specified\ length\r\n\ @param\ text\ Input\ text\r\n\ @param\ length\ Length\ of\ the\ substring\r\n\ @return\ The\ substring\ of\ the\ text\r\n\ @throws\ IndexOutOfBoundsException\ Thrown\ if\ length\ >\ text.length()\r\n
+comment5.params=text\ length
+comment5.target=java.lang.String\ right(java.lang.String,\ int)
+comment5.text=\r\n\ Returns\ a\ substring\ of\ the\ text\ from\ right\ with\ specified\ length\r\n\ @param\ text\ Input\ text\r\n\ @param\ length\ Length\ of\ the\ substring\r\n\ @return\ The\ substring\ of\ the\ text\r\n\ @throws\ IndexOutOfBoundsException\ Thrown\ if\ length\ >\ text.length()\r\n
+comment6.params=text
+comment6.target=int\ length(java.lang.String)
+comment6.text=\r\n\ Returns\ the\ length\ of\ the\ given\ text\r\n\ @param\ text\ Input\ text\r\n\ @return\ Length\ of\ the\ text\r\n
+comment7.params=text\ start\ length
+comment7.target=java.lang.String\ subString(java.lang.String,\ int,\ int)
+comment7.text=\r\n\r\n\ Returns\ a\ substring\ of\ the\ text\ from\ right\ with\ specified\ length\r\n\ @param\ text\ Input\ text\r\n\ @param\ start\ Start\ index\ (1\ based)\r\n\ @param\ length\ Length\ of\ the\ substring\r\n\ @return\ The\ substring\ of\ the\ text\r\n\ @throws\ IndexOutOfBoundsException\ Thrown\ if\ length\ >\ text.length()-start\r\n
+comment8.params=text
+comment8.target=char[]\ toCharArray(java.lang.String)
+comment8.text=\r\n\ Returns\ the\ chars\ of\ the\ text\ as\ array\r\n\ @param\ text\ Input\ text\r\n\ @return\ Array\ of\ chars\r\n
+numComments=9
